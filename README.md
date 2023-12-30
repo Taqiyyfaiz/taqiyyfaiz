@@ -1,9 +1,6 @@
-
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm TAQIYY FAIZ</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
-
-![Programming (1)](https://github.com/Taqiyyfaiz/taqiyyfaiz/assets/113523139/b981b101-2144-4310-bac7-aef5994ad69e)
-
 
 - 🔭 I’m currently working on **Full Stack Development**
 
