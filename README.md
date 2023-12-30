@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm TAQIYY FAIZ</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
+
+![Programming (1)](https://github.com/Taqiyyfaiz/taqiyyfaiz/assets/113523139/b981b101-2144-4310-bac7-aef5994ad69e)
+
 
 - 🔭 I’m currently working on **Full Stack Development**
 
@@ -24,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taqiyyfaiz&show_icons=true&locale=en" alt="taqiyyfaiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taqiyyfaiz&" alt="taqiyyfaiz" /></p>
-
