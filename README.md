@@ -1,7 +1,7 @@
-![Header](./![github-header-image](https://github.com/Taqiyyfaiz/taqiyyfaiz/assets/113523139/93ea78a4-1351-42f7-9ce4-c6ff85f98fe7))
+![MasterHead](https://github.com/Taqiyyfaiz/taqiyyfaiz/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm TAQIYY FAIZ</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
-<img align="right" alt="coding" width="400" src="![Programming (3)](https://github.com/Taqiyyfaiz/taqiyyfaiz/assets/113523139/bcc4fe1d-f16d-4a0f-bc3c-fdce2a755a07)">
+<img align="right" alt="coding" width="250" src="https://github.com/Taqiyyfaiz/taqiyyfaiz/blob/main/img.gif">
 
 
 - 🔭 I’m currently working on **Full Stack Development**
