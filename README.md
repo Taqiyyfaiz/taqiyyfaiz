@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, My Name is Taqiyy Faiz
+![](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-<!--
-**Taqiyyfaiz/Taqiyyfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 3rd Year B. Tech student in Data Science and AI, passionate about software engineering and AI.
 
-Here are some ideas to get you started:
+💡 **Philosophy:** "There are going to be errors, but just keep debugging."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect With Me :** [LinkedIn](https://www.linkedin.com/in/taqiyy-faiz) | [Email](mailto:taqiyyfaiz.official@gmail.com)
+
+Skills: Java / Python / JS / HTML / CSS / Cognos BI
+
+- 🌱 I’m currently learning Full Stack Development 
+- 👯 I’m looking to collaborate on Full Stack - Backend 
+
+
+
+
