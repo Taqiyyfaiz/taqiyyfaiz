@@ -1,4 +1,6 @@
-### Hi there 👋, My Name is Taqiyy Faiz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+My+Name+is+Taqiyy+Faiz)](https://git.io/typing-svg)
+
+
 ![](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 A 3rd Year B. Tech student in Data Science and AI, passionate about software engineering and AI.
