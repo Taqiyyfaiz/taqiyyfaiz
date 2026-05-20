@@ -1,27 +1,19 @@
-#### Hey, my name is Taqi Faiz 👋
+## Hey, I'm Taqi Faiz 👋
 
-I am an aspiring Data Analyst finishing my Computer Engineering degree, specializing in Data Science and AI. I also have dedicated training in Business Analytics and Power BI.
+Data Analyst (fresher) based in Chennai, India.
+CS Graduate specializing in Data Science & AI.
 
-My ultimate goal is to solve real business problems through efficient data analysis, helping companies make logical decisions while building a career I genuinely enjoy.
+Currently building: end-to-end analytics projects on real datasets.
 
-- 🔭 I’m currently working on Excel & SQL Projects
-- 🌱 I’m currently learning SQL, Pandas, Power BI
+**Tools I work with:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (JOINs, subqueries, window functions)
+- Power BI · Excel (Pivot Tables, models)
 
-🏢 Documenting on LinkedIn ➡︎ [@taqiyy-faiz]([https://www.linkedin.com/in/taqiyy-faiz/])
+**What I'm actively working on:**
+- 🔭 Zomato EDA Project (Python)
+- 🌱 SQL E-Commerce Analysis
+- 📊 Power BI Dashboard Portfolio
 
-
-
-<!--
-**mochen862/mochen862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 taqiyyfaiz.official@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/taqiyy-faiz/) | 🏆 [HackerRank](https://www.hackerrank.com/profile/taqifaiz_co)
