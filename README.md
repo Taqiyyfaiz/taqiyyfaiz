@@ -26,8 +26,6 @@ Predictive model built with Scikit-Learn to assess diabetes risk from health dat
 **[Real-Time Drowning Detection (YOLOv11)](https://github.com/Taqiyyfaiz/Real-Time-Drowning-Detection-YOLOv11)**
 Computer vision system using YOLOv11 and a temporal state machine to detect drowning in real time.
 
-📂 More in [Data-Analytics-Projects](https://github.com/Taqiyyfaiz/Data-Analytics-Projects) — a running collection of SQL, Python, Excel, and Power BI work.
-
 ### 🛠️ Skills
 
 **Analytics:** SQL · Excel · Power BI · IBM Cognos BI
@@ -41,5 +39,5 @@ Certifications: Business Intelligence · Business Analysis Foundations · Red Ha
 
 ### 📫 Reach me
 
-- LinkedIn: [your-linkedin-url-here]
-- Email: [your-email-here]
+- LinkedIn: [www.linkedin.com/in/taqiyy-faiz]
+- Email: [taqiyy.faiz.work@gmail.com]
